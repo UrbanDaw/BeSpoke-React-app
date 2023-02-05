@@ -1,0 +1,26 @@
+.aboutMe {
+  display: flex;
+  width: 880px;
+  margin: 100px auto;
+
+  h1 {
+    color: #b29b79;
+    margin-top: 70px;
+    font-size: 30px;
+  }
+
+  h3 {
+    padding-top: 20px;
+    opacity: 0.8;
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+  p {
+    padding-top: 20px;
+    padding-right: 50px;
+    font-size: 15px;
+    line-height: 2;
+    opacity: 0.5;
+  }
+}
